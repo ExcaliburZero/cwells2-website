@@ -6,3 +6,6 @@ url: "http://www.cs.oswego.edu/~cwells2"
 
 # Build settings
 markdown: kramdown
+
+# Ignore unwanted files
+exclude: [ Gemfile, Rakefile ]
