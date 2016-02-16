@@ -1,0 +1,9 @@
+/**
+ * This is the base css for the website. It includes basic, non-layout things
+ * such as text font.
+ */
+body {
+	font-family:	$base-font-family;
+	font-size:	$base-font-size;
+	color:	$text-color;
+}
