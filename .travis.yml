@@ -2,8 +2,8 @@ language: ruby
 rvm:
   - 2.2
 script:
-  - jekyll build
-  - bundle exec rake
+  - make build
+  - make test
 
 env:
   global:
