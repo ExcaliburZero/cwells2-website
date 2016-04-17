@@ -22,7 +22,7 @@ For the presentation at Quest, the project recieved the [Sigma Xi / ORSP Quest 2
 
 ### Presentations
 
-Shakhar Dasgupta, Christopher Wells, Kyle Zeller. (2016, April 13). *The Electroencephalogram Control System*. Presented at Quest, Oswego, NY.
+Shakhar Dasgupta, Christopher Wells, Kyle Zeller. (2016, April 13). *[The Electroencephalogram Control System]({{ site.baseurl }}/presentations/the_electroencephalogram_control_system_quest_2016.pdf)*. Presented at Quest, Oswego, NY.
 
 ### Links
 
