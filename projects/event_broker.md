@@ -1,5 +1,6 @@
 ---
 layout: default
+title: LSST Event Broker
 ---
 
 ## LSST Event Broker

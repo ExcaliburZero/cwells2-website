@@ -1,5 +1,6 @@
 ---
 layout: default
+title: The Electroencephalogram Control System
 ---
 
 ## The Electroencephalogram Control System
